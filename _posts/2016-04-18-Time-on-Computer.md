@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Iime on Computer"
+title:  "Time on Computer"
 date:   2016-04-18 16:11:40 +0800
 categories: jekyll update
 ---
